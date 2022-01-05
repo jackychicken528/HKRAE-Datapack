@@ -1,0 +1,11 @@
+function hkrae:scoreboard/death/uninstall
+function hkrae:scoreboard/scoreoption/uninstall
+function hkrae:scoreboard/trade/uninstall
+function hkrae:scoreboard/fishing/uninstall
+function hkrae:scoreboard/kill/uninstall
+function hkrae:scoreboard/onlinetime/uninstall
+function hkrae:scoreboard/flydistance/uninstall
+function hkrae:scoreboard/damage/uninstall
+function hkrae:scoreboard/dig/uninstall
+function hkrae:scoreboard/servertotal/install
+function hkrae:scoreboard/cycle/uninstall

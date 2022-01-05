@@ -1,0 +1,1 @@
+scoreboard objectives add leavegame custom:leave_game
